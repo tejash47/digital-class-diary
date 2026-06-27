@@ -1,20 +1,67 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 📚 Digital Class Diary
 
-# Run and deploy your AI Studio app
+A full-stack classroom management application that helps teachers and students manage classes, attendance, assignments, and classroom activities through a modern web interface.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/c8f8ea6d-cb92-4934-80e4-ee265f8e8713
+https://digital-class-diary.onrender.com
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- 👨‍🏫 Teacher Dashboard
+- 👨‍🎓 Student Dashboard
+- 🔐 Secure Authentication
+- 📅 Classroom Management
+- 📝 Attendance Tracking
+- 📚 Assignment Management
+- 💾 MongoDB Database
+- 📱 Responsive Design
 
+## 🛠 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Frontend**
+- React
+- TypeScript
+- Vite
+- CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB Atlas
+
+**Deployment**
+- Render
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/tejash47/digital-class-diary.git
+
+cd digital-class-diary
+
+npm install
+
+npm run dev
+```
+
+## 📁 Project Structure
+
+```
+src/
+server/
+assets/
+```
+
+## 👨‍💻 Author
+
+**Tejesh Kamada**
+
+GitHub:
+https://github.com/tejash47
+
+---
+
+⭐ If you like this project, consider giving it a star!

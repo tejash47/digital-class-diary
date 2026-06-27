@@ -73,11 +73,15 @@ digital-class-diary
 
 ### Classroom
 
-![Classroom](screenshots/classroom.png)
+![Classroom](screenshots/class.png)
 
-### Attendance
+### Landing Page
 
-![Attendance](screenshots/attendance.png)
+![Attendance](screenshots/landing.png)
+
+### login
+
+![login](screenshots/login.png)
 
 ---
 

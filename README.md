@@ -65,23 +65,24 @@ digital-class-diary
 
 ### Home Page
 
-![Home](screenshots/home.png)
+<img width="1920" height="904" alt="home" src="https://github.com/user-attachments/assets/69fc4ad7-ccd0-4b43-89ce-c5414bf4930a" />
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1920" height="894" alt="dashboard" src="https://github.com/user-attachments/assets/567be39f-0e1c-4884-9f8d-f41cc8a12ffd" />
+
 
 ### Classroom
 
-![Classroom](screenshots/class.png)
+<img width="1920" height="886" alt="class" src="https://github.com/user-attachments/assets/a8b5c6ab-dc12-4a6b-ab43-74dd2def7eef" />
 
-### Landing Page
+### Unique Teacher code
 
-![Attendance](screenshots/landing.png)
+<img width="1920" height="886" alt="teacher code" src="https://github.com/user-attachments/assets/4b86a7a6-9b0c-4b9c-835b-9d9000bdca85" />
 
 ### login
 
-![login](screenshots/login.png)
+<img width="1920" height="913" alt="login" src="https://github.com/user-attachments/assets/94d4854b-a1d5-461e-8bb4-fc608829a9c0" />
 
 ---
 
